@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-div-for-tokens {
+    width: 100vw;
+    height: 100vh;
+    display: inline-block;
+    background-color: #35393a;
+    margin-top: 10rem;
+    margin: 0 auto;
+    /* border: 2px solid black; */
+
+    display: inline-block;
+}
+
+.tokens-div {
+    margin: 0 auto;
+    margin-top: 10rem;
+    background-color: white;
+    width: 30%;
+    height: auto;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 1px 1px 5px black;
+}
+
+.token-child {
+    margin: 0 auto;
+    font-size: medium;
+}

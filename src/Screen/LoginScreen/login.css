@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-for-login-page {
+    width: 100vw;
+    height: 100vh;
+    display: inline-block;
+    background-color: #1b1f20;
+    /* border: 1px solid black; */
+}
+
+.img-div {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.main-page-image {
+    width: 30rem;
+    height: 20rem;
+    border: none;
+    border-radius: 8px;
+}
+
+#main-heading {
+    margin-top: 3rem;
+    text-align: center;
+    color: white;
+    
+}
+
+.special-text {
+    margin-top: 1rem;
+    font-size: larger;
+    font-weight: 500;
+    text-align: center;
+    color: #fff;
+}
+
+.login-btn-div {
+    width: fit-content;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 3rem;
+}
+
+.login-btn {
+    display: inline-block;
+    width: fit-content;
+    height: 3rem;
+    margin: 0 auto;
+
+}
+
